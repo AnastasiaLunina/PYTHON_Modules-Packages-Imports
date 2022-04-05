@@ -1,6 +1,6 @@
 # Homework 1.«Import. Module. Package»
 
-1. Make a structure of "Accounting" programm. 
+1. Make a structure of "Accounting" program. 
 - main.py;  
 - directory application:  
 -- salary.py;  
